@@ -21,25 +21,9 @@ Research Interest
 - **Fluid Dynamics Theory**  
 - **Deep Learning for Mesh Generation** 
 
-Education
-------
-- **PhD in Aeronautics**  
-  *Imperial College London (2024 - Present)*  
-  Supervised by **Prof. Hwang Yongyun**  
-
-- **MSc in Earth Science and Engineering**  
-  *Imperial College London*  
-  Graduated with Distinction
-
-- **BSc in Applied Mathematics**  
-  *Xi’an Jiaotong-Liverpool University & University of Liverpool*  
-  Graduated with First-Class Honours
-
-
-How to edit your site's GitHub repository
+Research Project
 ------
 
 
-For more info
-------
+
 
