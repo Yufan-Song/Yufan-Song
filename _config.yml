@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yufan Song/Personal Homepage"
+title                    : "Yufan's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yufan Song"
 description              : &description "personal description"
