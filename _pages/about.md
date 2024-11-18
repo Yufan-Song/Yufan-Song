@@ -16,7 +16,10 @@ I am a first-year PhD student in the Department of Aeronautics at Imperial Colle
 
 Research Interest
 ------
-
+- **Instability and Bifurcation Theory**  
+- **Numerical Methods**  
+- **Fluid Dynamics Theory**  
+- **Deep Learning for Mesh Generation** 
 
 Create content & metadata
 ------
